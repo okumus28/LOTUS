@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Item
   - UnPicked
+  - Barrel
+  - Bullet
+  - Pistol
+  - ItemPart
+  - Gun
+  - Deneme
   layers:
   - Default
   - TransparentFX
